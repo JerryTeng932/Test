@@ -1,7 +1,7 @@
 /**
  * 
  */
- //THIS MESSAGE WAS FROM TEST 2
+ //THIS MESSAGE WAS FROM TEST 1
 package edu.rpi.csci2600.u25.kuzmik2;
 import java.util.*;
 import java.util.logging.FileHandler;
